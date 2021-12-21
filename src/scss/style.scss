@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,600&display=swap');
+$main-font: 'Roboto', sans-serif!important;
+$main-color: rgb(241, 197, 255)!important;
+$container-color: rgb(250, 227, 227)!important;
+
+.question-container{
+    margin-top: 60vh;
+    @media screen and (max-width: "900px") {
+        padding-right: 0px!important;
+        padding-left: 0px!important;
+    
+      }
+    .col-final-submit{
+        padding-top:20px;
+        margin: 50px 0;
+        .btn-go-form{
+            padding: 25px;
+            font-size: 2rem;
+            font-weight: 800;
+            font-style: italic;
+        }
+    }
+    .attribute-names{
+        font-style: italic;
+        padding-bottom: 2rem;
+        @media screen and (max-width: "900px") {
+            padding-bottom: .5rem;
+          }
+    }
+    .question-button-col{
+        margin-top: 1.5rem;
+    }
+    .questionario-title{
+        font-family: $main-font;
+        font-style: italic;
+    }
+    .question-row{
+        margin:5rem 1.5rem;
+        padding:1rem;
+        border: rgb(70, 68, 68) 1px solid;
+        border-radius: 10px;
+        font-weight: 800;
+        @media screen and (max-width: "900px") {
+            margin-right: 0px!important;
+            margin-left: 0px!important;
+          }
+        .record-option{
+            font-weight: 500;
+            padding: 2rem 0rem;
+            border: grey 1px dashed;
+            border-radius: 20px;
+            @media screen and (max-width: "900px") {
+                padding-right: 0px!important;
+                padding-left: 0px!important;
+              }
+
+           
+        }
+    }
+}
+
+body{
+    background-color: $main-color;
+    font-family: $main-font;
+}
+
+.main-container{
+    padding: 0 3rem;
+    overflow: hidden;
+    border-radius: 10px;
+    background-color: $container-color;
+    @media screen and (max-width: "900px") {
+        padding: 0 1.2rem;
+      }
+    .container-div{
+        padding: 30px;
+    }
+    .home-title{
+        padding: 20px;
+        font-weight: 500;
+        font-family: italic;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .home-description-text{
+        padding: 0 55px;
+        font-size: 1.1rem;
+        text-align: left;
+        @media screen and (max-width: "900px") {
+            padding: 0.1rem;
+          }
+    }
+    .home-image{
+        width: 100%;
+        opacity: 0.99;
+        margin-top: 5px;
+        min-height: 150px;
+        border-radius: 20px;
+    }
+    .italian-button{
+        background-color: rgb(161, 252, 161);
+
+        .italian-flag{
+            width: 50px!important;
+            font-size: 1.5rem;
+        }
+        @media screen and (max-width: "900px") {
+            margin-bottom: 20px;
+          }
+    }    
+    .english-button{
+        background-color: rgb(157, 155, 228);
+        .english-flag{
+            font-size: 1.5rem;
+            width: 50px!important;
+        }
+        @media screen and (max-width: "900px") {
+            margin-bottom: 20px;
+          }
+        
+    }  
+
+    .home-description{
+        padding: 25px;
+    }  
+
+    .iframe-container{
+        margin-top: 55px!important;
+        padding: 0!important;
+    }
+
+    .button-go-form{
+        padding-top:50px;
+        margin: 50px 0;
+        .btn-go-form{
+            padding: 25px;
+            font-size: 2rem;
+            font-weight: 800;
+            font-style: italic;
+        }
+    }
+}    
+
+.myFooter{
+    margin-top: 15px;
+    background-color: $main-color;
+    font-weight: 600;
+    color:black;
+    min-height: 50px;
+    .Icons{
+        margin-top: 5px;
+    }
+    a {
+        color:black;
+    }
+
+}
