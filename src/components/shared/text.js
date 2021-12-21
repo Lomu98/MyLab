@@ -6,10 +6,9 @@ export const TEXT = {
             <span>
                 Hi, thanks for being here.
                 <br />
-                The following questions are designed to understand what may be the most important features for an application aimed 
-                at managing household finances. Each question consists in choosing the best product among three possible options. 
-                Each of these options is defined by features or characteristics, what they consist of are explained below 
-                (there is also a recommended illustrative video lasting about 2 minutes to understand what these features represent).
+                The following questions are designed to understand which may be the most important characteristics for a brand new movie.
+                Each question consists in choosing the best movie among three possible options. 
+                Each of these options is defined by features or characteristics, which are explained below.
 
                 <br />
                 These features are:
