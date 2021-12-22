@@ -2,7 +2,7 @@
   "name": "conjoint-form",
   "homepage": "http://Lomu98.github.io/Business_Analytics_Code",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
