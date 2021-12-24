@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MyLab/static/css/main.20764c59.chunk.css",
+    "main.js": "/MyLab/static/js/main.f0dfc465.chunk.js",
+    "main.js.map": "/MyLab/static/js/main.f0dfc465.chunk.js.map",
+    "runtime-main.js": "/MyLab/static/js/runtime-main.e661c86d.js",
+    "runtime-main.js.map": "/MyLab/static/js/runtime-main.e661c86d.js.map",
+    "static/css/2.154b73b3.chunk.css": "/MyLab/static/css/2.154b73b3.chunk.css",
+    "static/js/2.9a9a4382.chunk.js": "/MyLab/static/js/2.9a9a4382.chunk.js",
+    "static/js/2.9a9a4382.chunk.js.map": "/MyLab/static/js/2.9a9a4382.chunk.js.map",
+    "static/js/3.6e705159.chunk.js": "/MyLab/static/js/3.6e705159.chunk.js",
+    "static/js/3.6e705159.chunk.js.map": "/MyLab/static/js/3.6e705159.chunk.js.map",
+    "index.html": "/MyLab/index.html",
+    "static/css/2.154b73b3.chunk.css.map": "/MyLab/static/css/2.154b73b3.chunk.css.map",
+    "static/css/main.20764c59.chunk.css.map": "/MyLab/static/css/main.20764c59.chunk.css.map",
+    "static/js/2.9a9a4382.chunk.js.LICENSE.txt": "/MyLab/static/js/2.9a9a4382.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/MyLab/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e661c86d.js",
+    "static/css/2.154b73b3.chunk.css",
+    "static/js/2.9a9a4382.chunk.js",
+    "static/css/main.20764c59.chunk.css",
+    "static/js/main.f0dfc465.chunk.js"
+  ]
+}
